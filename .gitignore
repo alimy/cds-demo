@@ -1,0 +1,7 @@
+node_modules
+dist/files
+NOTES.md
+*.log
+.env
+.idea/
+.iml
